@@ -1,0 +1,32 @@
+1610901181a:1:{s:25:"home_page/section_one.htm";a:6:{s:8:"fileName";s:25:"home_page/section_one.htm";s:7:"content";s:780:"==
+<section id="one" class="main">
+    <div class="spotlight">
+        <div class="content">
+            <header class="major">
+                <h2>Обо мне</h2>
+            </header>
+            <p>Приветствую!
+                Меня зовут Сергей Климов, я веб-программист. <br />
+                Буду рад спроектировать и реализовать для вас лендинг, блог, магазин.</p>
+            <!-- <ul class="actions">
+                <li><a href="{{'generic'|page}}" class="button">Подробнее</a></li>
+            </ul> -->
+        </div>
+        <span class="image"><img src="{{'assets/images/pic01.jpg'|theme}}" alt="image" /></span>
+    </div>
+</section>";s:5:"mtime";i:1610899939;s:6:"markup";s:776:"<section id="one" class="main">
+    <div class="spotlight">
+        <div class="content">
+            <header class="major">
+                <h2>Обо мне</h2>
+            </header>
+            <p>Приветствую!
+                Меня зовут Сергей Климов, я веб-программист. <br />
+                Буду рад спроектировать и реализовать для вас лендинг, блог, магазин.</p>
+            <!-- <ul class="actions">
+                <li><a href="{{'generic'|page}}" class="button">Подробнее</a></li>
+            </ul> -->
+        </div>
+        <span class="image"><img src="{{'assets/images/pic01.jpg'|theme}}" alt="image" /></span>
+    </div>
+</section>";s:4:"code";N;s:17:"_PARSER_ERROR_INI";s:0:"";}}

@@ -1,0 +1,70 @@
+1610901499a:1:{s:26:"home_page/section_four.htm";a:6:{s:8:"fileName";s:26:"home_page/section_four.htm";s:7:"content";s:1604:"==
+<section id="four" class="main">
+    <header class="major">
+        <h2>Контакты</h2>
+        <!-- <p>You can choose stellar (home one-pager) and generic (all other pages) as Layout.</p> -->
+        <p>Буду рад быть полезным</p>
+    </header>
+    <div class="content">
+        <form method="post" action="">
+            <div class="row uniform">
+                <div class="6u 12u$(xsmall)">
+                    <input type="text" placeholder="Ваше имя">
+                </div>
+                <div class="6u$ 12u$(xsmall)">
+                    <input type="email" placeholder="Ваша почта">
+                </div>
+                <div class="12u$">
+                    <textarea name="demo-message" id="demo-message" placeholder="Ваше сообщение" rows="6"></textarea>
+                </div>
+                <div class="12u$">
+                    <ul class="actions">
+                        <li><input type="submit" value="Отправить" class="special" /></li>
+                        <li><input type="reset" value="Сбросить" /></li>
+                    </ul>
+                </div>
+            </div>
+        </form>
+    </div>
+    <!-- <footer class="major">
+        <ul class="actions">
+            <li><a href="{{'generic'|page}}" class="button">View Generic Page</a></li>
+            <li><a href="{{'elements'|page}}" class="button">View Elements Page</a></li>
+            <li><a href="{{'blog'|page}}" class="button special">View Blog Page</a></li>
+        </ul>
+    </footer> -->
+</section>";s:5:"mtime";i:1610900863;s:6:"markup";s:1600:"<section id="four" class="main">
+    <header class="major">
+        <h2>Контакты</h2>
+        <!-- <p>You can choose stellar (home one-pager) and generic (all other pages) as Layout.</p> -->
+        <p>Буду рад быть полезным</p>
+    </header>
+    <div class="content">
+        <form method="post" action="">
+            <div class="row uniform">
+                <div class="6u 12u$(xsmall)">
+                    <input type="text" placeholder="Ваше имя">
+                </div>
+                <div class="6u$ 12u$(xsmall)">
+                    <input type="email" placeholder="Ваша почта">
+                </div>
+                <div class="12u$">
+                    <textarea name="demo-message" id="demo-message" placeholder="Ваше сообщение" rows="6"></textarea>
+                </div>
+                <div class="12u$">
+                    <ul class="actions">
+                        <li><input type="submit" value="Отправить" class="special" /></li>
+                        <li><input type="reset" value="Сбросить" /></li>
+                    </ul>
+                </div>
+            </div>
+        </form>
+    </div>
+    <!-- <footer class="major">
+        <ul class="actions">
+            <li><a href="{{'generic'|page}}" class="button">View Generic Page</a></li>
+            <li><a href="{{'elements'|page}}" class="button">View Elements Page</a></li>
+            <li><a href="{{'blog'|page}}" class="button special">View Blog Page</a></li>
+        </ul>
+    </footer> -->
+</section>";s:4:"code";N;s:17:"_PARSER_ERROR_INI";s:0:"";}}

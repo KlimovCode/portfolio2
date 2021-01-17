@@ -1,0 +1,56 @@
+1610901181a:1:{s:25:"home_page/section_two.htm";a:6:{s:8:"fileName";s:25:"home_page/section_two.htm";s:7:"content";s:1196:"==
+<section id="two" class="main">
+    <header class="major">
+        <h2>Проекты</h2>
+    </header>
+    <ul class="features">
+        <li>
+            <span class="icon major style1 fa-code"></span>
+            <h3>Лендинг по дезинсекции</h3>
+            <p>Адаптивный дизайн на чистых технологиях HTML, CSS, JS</p>
+            <a href="http://vrediteleynet.site/">vrediteleynet.site</a>
+        </li>
+        <!-- <li>
+            <span class="icon major style3 fa-copy"></span>
+            <h3>Amed sed feugiat</h3>
+            <p>Sed lorem amet ipsum dolor et amet nullam consequat a feugiat consequat tempus veroeros sed consequat.</p>
+        </li>
+        <li>
+            <span class="icon major style5 fa-diamond"></span>
+            <h3>Dolor nullam</h3>
+            <p>Sed lorem amet ipsum dolor et amet nullam consequat a feugiat consequat tempus veroeros sed consequat.</p>
+        </li> -->
+    </ul>
+    <!-- <footer class="major">
+        <ul class="actions">
+            <li><a href="{{'generic'|page}}" class="button">Подробнее</a></li>
+        </ul>
+    </footer> -->
+</section>";s:5:"mtime";i:1610899955;s:6:"markup";s:1192:"<section id="two" class="main">
+    <header class="major">
+        <h2>Проекты</h2>
+    </header>
+    <ul class="features">
+        <li>
+            <span class="icon major style1 fa-code"></span>
+            <h3>Лендинг по дезинсекции</h3>
+            <p>Адаптивный дизайн на чистых технологиях HTML, CSS, JS</p>
+            <a href="http://vrediteleynet.site/">vrediteleynet.site</a>
+        </li>
+        <!-- <li>
+            <span class="icon major style3 fa-copy"></span>
+            <h3>Amed sed feugiat</h3>
+            <p>Sed lorem amet ipsum dolor et amet nullam consequat a feugiat consequat tempus veroeros sed consequat.</p>
+        </li>
+        <li>
+            <span class="icon major style5 fa-diamond"></span>
+            <h3>Dolor nullam</h3>
+            <p>Sed lorem amet ipsum dolor et amet nullam consequat a feugiat consequat tempus veroeros sed consequat.</p>
+        </li> -->
+    </ul>
+    <!-- <footer class="major">
+        <ul class="actions">
+            <li><a href="{{'generic'|page}}" class="button">Подробнее</a></li>
+        </ul>
+    </footer> -->
+</section>";s:4:"code";N;s:17:"_PARSER_ERROR_INI";s:0:"";}}
