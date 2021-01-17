@@ -16,16 +16,16 @@
             <dd><a href="mailto:klimovcode@mail.ru">klimovcode@mail.ru</a></dd>
         </dl>
         
-        <form method="post" action="">
+        <form method="post" action="/myscripts/mail.php">
             <div class="row uniform">
                 <div class="6u 12u$(xsmall)">
-                    <input type="text" placeholder="Ваше имя">
+                    <input name="name" type="text" placeholder="Ваше имя" required>
                 </div>
                 <div class="6u$ 12u$(xsmall)">
-                    <input type="email" placeholder="Ваша почта">
+                    <input name="email" type="email" placeholder="Ваша почта" required>
                 </div>
                 <div class="12u$">
-                    <textarea name="demo-message" id="demo-message" placeholder="Ваше сообщение" rows="6"></textarea>
+                    <textarea name="message" id="demo-message" placeholder="Ваше сообщение" rows="6" required></textarea>
                 </div>
                 <div class="12u$">
                     <ul class="actions">
